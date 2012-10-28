@@ -1,0 +1,6 @@
+Experiments using the neo4j graph database library to model events in the real world and derive probabilties of similar future events based on past observations and given constraints. 
+
+The neo4j interfacing works, but the probability models haven't been coded in yet. 
+That aspect of the project was largely inspired by this article: 
+<a href="http://code.google.com/p/ourmine/wiki/LectureNaiveBayes">Naive Bayes Classifier</a>
+
